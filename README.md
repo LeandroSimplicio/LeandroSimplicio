@@ -71,6 +71,18 @@ Estou me dedicando intensamente à **transição para a área de tecnologia**, c
 <br/>
 <br/>
 
+<br>
+
+### 📚 **O Que Estou Aprendendo Agora**
+- **Frameworks Front-End**: TypeScript, Next.js
+- **Back-End**: Express.js, APIs REST
+- **Banco de Dados**: MongoDB e PostgreSQL
+- **Metodologias Ágeis**: Scrum e Kanban
+
+### 🎯 **Objetivo Atual**
+Construir projetos práticos que resolvam problemas reais enquanto aprimoro minhas habilidades técnicas e colaborativas. **Busco oportunidades para contribuir em equipes inovadoras!**
+<br>
+
 ### 📊 Estatísticas
 <br>
 <p>
@@ -90,3 +102,9 @@ Estou me dedicando intensamente à **transição para a área de tecnologia**, c
   />
 
 </p>
+
+### 📫 **Vamos Conversar?**
+Estou sempre aberto a conexões, mentorias e desafios! Me encontre em:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://https://www.linkedin.com/in/leandro-simplicio//)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail)](mailto:leandro.simpliciio@gmail.com)
