@@ -8,7 +8,7 @@
 Estou me dedicando intensamente à **transição para a área de tecnologia**, com foco em **Desenvolvimento FullStack**. Atualmente, mergulho em estudos diários para dominar:
 
 ### 🤖 Linguagens e Tecnologias
-<br>
+
 <img 
     align="left" 
     alt="HTML"
