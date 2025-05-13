@@ -103,11 +103,8 @@ Construir projetos práticos que resolvam problemas reais enquanto aprimoro minh
 
 </p>
 
-<br>
-<br>
-
 ### 📫 **Vamos Conversar?**
 Estou sempre aberto a conexões, mentorias e desafios! Me encontre em:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/leandro-simplicio/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://https://www.linkedin.com/in/leandro-simplicio//)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail)](mailto:leandro.simpliciio@gmail.com)
