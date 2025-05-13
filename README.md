@@ -103,7 +103,8 @@ Construir projetos práticos que resolvam problemas reais enquanto aprimoro minh
 
 </p>
 
-https://leandrosimplicio.github.io/LeandroSimplicio/github-contribution-grid-snake-dark.svg
+![Snake animation](https://leandrosimplicio.github.io/LeandroSimplicio/github-contribution-grid-snake.svg)
+
 
 
 ### 📫 **Vamos Conversar?**
