@@ -106,6 +106,14 @@ Construir projetos práticos que resolvam problemas reais enquanto aprimoro minh
 ![Snake animation](https://leandrosimplicio.github.io/LeandroSimplicio/github-contribution-grid-snake-dark.svg
 )
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeandroSimplicio/LeandroSimplicio/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeandroSimplicio/LeandroSimplicio/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LeandroSimplicio/LeandroSimplicio/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 
 
 ### 📫 **Vamos Conversar?**
