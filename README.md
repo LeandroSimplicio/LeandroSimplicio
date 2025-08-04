@@ -1,122 +1,84 @@
-# 👨‍💻 Leandro Simplicio
+<h1 align="center">👨‍💻 Leandro Simplicio</h1>
 
-**`Desenvolvedor FullStack`**
+###
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-  **"Transformando linhas de código em soluções inovadoras!"** 💡
+###
 
-Estou me dedicando intensamente à **transição para a área de tecnologia**, com foco em **Desenvolvimento FullStack**. Atualmente, mergulho em estudos diários para dominar:
+<h5 align="left">Desenvolvedor Front-end</h5>
 
-### 🤖 Linguagens e Tecnologias
+###
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
+<p align="left">"Transformando linhas de código em soluções inovadoras!"💡<br><br>Estou me dedicando intensamente à **transição para a área de tecnologia**, com foco em **Desenvolvimento FullStack**. Atualmente, mergulho em estudos diários para dominar:</p>
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+###
 
+<h3 align="left">📚 **O Que Estou Aprendendo Agora**</h3>
 
-<br/>
-<br/>
+###
 
-<br>
+<p align="left">- **Frameworks Front-End**: TypeScript, Next.js<br>- **Back-End**: Express.js, APIs REST<br>- **Banco de Dados**: MongoDB e PostgreSQL<br>- **Metodologias Ágeis**: Scrum e Kanban</p>
 
-### 📚 **O Que Estou Aprendendo Agora**
-- **Frameworks Front-End**: TypeScript, Next.js
-- **Back-End**: Express.js, APIs REST
-- **Banco de Dados**: MongoDB e PostgreSQL
-- **Metodologias Ágeis**: Scrum e Kanban
+###
 
-### 🎯 **Objetivo Atual**
-Construir projetos práticos que resolvam problemas reais enquanto aprimoro minhas habilidades técnicas e colaborativas. **Busco oportunidades para contribuir em equipes inovadoras!**
-<br>
+<h3 align="left">🛠 Linguagens e Ferramentas:</h3>
 
-### 📊 Estatísticas
-<br>
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LeandroSimplicio&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
-  />
+###
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSimplicio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
 
-</p>
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<p align="left"><img <br>    align="left" <br>    alt="GitHub Stats" <br>    height="200" <br>    style="padding-right: 10px;" <br>    src="https://github-readme-stats.vercel.app/api?username=LeandroSimplicio&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" <br>  /><br><br><img <br>      align="left" <br>      alt="GitHub Stats" <br>      height="200" <br>      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSimplicio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" <br>  /></p>
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeandroSimplicio/LeandroSimplicio/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeandroSimplicio/LeandroSimplicio/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LeandroSimplicio/LeandroSimplicio/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeandroSImplicio/LeandroSImplicio/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeandroSImplicio/LeandroSImplicio/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LeandroSImplicio/LeandroSImplicio/output/pacman-contribution-graph.svg">
 </picture>
 
+###
 
+<div align="left">
+  <a href="www.linkedin.com/in/leandro-simplicio" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="(https://img.shields.io/badge/-Gmail-D14836?logo=gmail)](mailto:leandro.simpliciio@gmail.com)" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
+###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LeandroSImplicio.LeandroSImplicio&"  />
+</div>
 
-### 📫 **Vamos Conversar?**
-Estou sempre aberto a conexões, mentorias e desafios! Me encontre em:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://https://www.linkedin.com/in/leandro-simplicio//)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail)](mailto:leandro.simpliciio@gmail.com)
+###
