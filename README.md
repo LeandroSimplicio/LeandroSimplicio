@@ -103,6 +103,7 @@ Construir projetos práticos que resolvam problemas reais enquanto aprimoro minh
 
 </p>
 
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeandroSimplicio/LeandroSimplicio/output/pacman-contribution-graph-dark.svg">
@@ -110,7 +111,7 @@ Construir projetos práticos que resolvam problemas reais enquanto aprimoro minh
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LeandroSimplicio/LeandroSimplicio/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+
 
 
 
