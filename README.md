@@ -73,6 +73,8 @@ Construir projetos práticos que resolvam problemas reais enquanto aprimoro minh
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSimplicio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+<br>
+
 ###
 
 <picture>
