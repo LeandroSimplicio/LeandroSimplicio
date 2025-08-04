@@ -16,11 +16,15 @@
 
 ###
 
-<h3 align="left">📚 **O Que Estou Aprendendo Agora**</h3>
+### 📚 **O Que Estou Aprendendo Agora**
+- **Frameworks Front-End**: TypeScript, Next.js
+- **Back-End**: Express.js, APIs REST
+- **Banco de Dados**: MongoDB e PostgreSQL
+- **Metodologias Ágeis**: Scrum e Kanban
 
-###
-
-<p align="left">- **Frameworks Front-End**: TypeScript, Next.js<br>- **Back-End**: Express.js, APIs REST<br>- **Banco de Dados**: MongoDB e PostgreSQL<br>- **Metodologias Ágeis**: Scrum e Kanban</p>
+### 🎯 **Objetivo Atual**
+Construir projetos práticos que resolvam problemas reais enquanto aprimoro minhas habilidades técnicas e colaborativas. **Busco oportunidades para contribuir em equipes inovadoras!**
+<br>
 
 ###
 
