@@ -54,7 +54,20 @@
 
 ###
 
-<p align="left"><img <br>    align="left" <br>    alt="GitHub Stats" <br>    height="200" <br>    style="padding-right: 10px;" <br>    src="https://github-readme-stats.vercel.app/api?username=LeandroSimplicio&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" <br>  /><br><br><img <br>      align="left" <br>      alt="GitHub Stats" <br>      height="200" <br>      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSimplicio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" <br>  /></p>
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=LeandroSimplicio&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSimplicio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
 ###
 
