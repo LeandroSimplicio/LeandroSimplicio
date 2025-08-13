@@ -97,7 +97,7 @@ Construir projetos práticos que resolvam problemas reais enquanto aprimoro minh
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LeandroSImplicio.LeandroSImplicio&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LeandroSImplicio.LeandroSImplicio"  />
 </div>
 
 ###
