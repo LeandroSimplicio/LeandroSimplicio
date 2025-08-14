@@ -12,15 +12,15 @@
 
 ###
 
-<p align="left">"Transformando linhas de código em soluções inovadoras!"💡<br><br>Estou me dedicando intensamente à **transição para a área de tecnologia**, com foco em **Desenvolvimento FullStack**. Atualmente, mergulho em estudos diários para dominar:</p>
+<p align="left">"Transformando linhas de código em soluções inovadoras!"💡<br><br>Estou me dedicando intensamente à *transição para a área de tecnologia*, com foco em *Desenvolvimento FullStack*. Atualmente, mergulho em estudos diários para dominar:</p>
 
 ###
 
 ### 📚 **O Que Estou Aprendendo Agora**
 - **Frameworks Front-End**: TypeScript, Next.js
 - **Back-End**: Express.js, APIs REST
-- **Banco de Dados**: MongoDB e PostgreSQL
-- **Metodologias Ágeis**: Scrum e Kanban
+
+
 
 ### 🎯 **Objetivo Atual**
 Construir projetos práticos que resolvam problemas reais enquanto aprimoro minhas habilidades técnicas e colaborativas. **Busco oportunidades para contribuir em equipes inovadoras!**
