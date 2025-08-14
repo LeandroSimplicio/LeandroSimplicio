@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">"Transformando linhas de código em soluções inovadoras!"💡<br><br>Estou me dedicando intensamente à *transição para a área de tecnologia*, com foco em *Desenvolvimento FullStack*. Atualmente, mergulho em estudos diários para dominar:</p>
+<p align="left">"Transformando linhas de código em soluções inovadoras!"💡<br><br>Estou me dedicando intensamente à transição para a área de tecnologi*, com foco em Desenvolvimento FullStack. Atualmente, mergulho em estudos diários para dominar:</p>
 
 ###
 
