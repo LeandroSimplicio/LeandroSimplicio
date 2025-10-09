@@ -86,7 +86,7 @@ Construir projetos práticos que resolvam problemas reais enquanto aprimoro minh
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/leandro-simplicio" target="_blank">
+  <a href="https://www.linkedin.com/in/leandro-simplicio" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:leandro.simpliciio@gmail.com" target="_blank">
