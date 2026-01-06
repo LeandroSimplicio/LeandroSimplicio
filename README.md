@@ -17,8 +17,8 @@
 ###
 
 ### 📚 **O Que Estou Aprendendo Agora**
-- **Frameworks Front-End**: TypeScript, Next.js
-- **Back-End**: Express.js, APIs REST
+- **Frameworks Front-End**: TypeScript, Next.js, React
+- **Back-End**: Express.js, APIs REST, MongoDB
 
 
 
@@ -58,20 +58,17 @@ Construir projetos práticos que resolvam problemas reais enquanto aprimoro minh
 
 ###
 
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LeandroSimplicio&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
+<p align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=LeandroSimplicio&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"
   />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSimplicio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
+</p>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSimplicio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
 <br>
 
