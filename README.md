@@ -49,8 +49,6 @@ nada de repositório abandonado.
 
 ---
 
-![pacman contribution graph](https://raw.githubusercontent.com/LeandroSImplicio/LeandroSImplicio/output/pacman-contribution-graph.svg)
-
 ###
 
 <br>
