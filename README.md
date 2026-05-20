@@ -8,49 +8,48 @@
 
 ###
 
-<h5 align="left">Desenvolvedor Front-end</h5>
+# Olá, eu sou o Leandro Simplício 👋
 
-###
+Desenvolvedor Front-End com foco em React.js e Tailwind CSS,
+evoluindo para Full-Stack com Node.js e Express.
 
-<p align="left">"Transformando linhas de código em soluções inovadoras!"💡<br><br>Estou me dedicando intensamente à transição para a área de tecnologia, com foco em Desenvolvimento FullStack. Atualmente, mergulho em estudos diários para dominar:</p>
+Construo interfaces responsivas, acessíveis e com boas
+práticas de código. Todos os projetos têm deploy ativo —
+nada de repositório abandonado.
 
-###
+---
 
-### 📚 **O Que Estou Aprendendo Agora**
-- **Frameworks Front-End**: TypeScript, Next.js, React
-- **Back-End**: Express.js, APIs REST, MongoDB
+## 🛠️ Tecnologias
 
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+![TailwindCSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg)
+![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
+![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
 
+---
 
-### 🎯 **Objetivo Atual**
-Construir projetos práticos que resolvam problemas reais enquanto aprimoro minhas habilidades técnicas e colaborativas. **Busco oportunidades para contribuir em equipes inovadoras!**
-<br>
+## 🚀 Projetos em Destaque
 
-###
+| Projeto | Tecnologias | Demo |
+|---|---|---|
+| [BlueStore — E-commerce](https://github.com/LeandroSimplicio/E_Commerce) | React · Tailwind CSS · Vite | [🔗 Ver demo](https://e-commerce-tau-two-90.vercel.app) |
+| [Dashboard Full-Stack](https://github.com/LeandroSimplicio) | Node.js · Express · React | — |
+| [Portfólio Pessoal](https://github.com/LeandroSimplicio/Portifolio-Leandro) | HTML · CSS · JavaScript | [🔗 Ver demo](https://portifolio-leandro-delta.vercel.app) |
 
-<h3 align="left">🛠 Linguagens e Ferramentas:</h3>
+---
 
-###
+## 📬 Contato
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
+[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/leandro-simplicio)
+[![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:leandro.simpliciio@gmail.com)
+
+---
+
+![pacman contribution graph](https://raw.githubusercontent.com/LeandroSImplicio/LeandroSImplicio/output/pacman-contribution-graph.svg)
 
 ###
 
